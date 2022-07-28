@@ -6,6 +6,7 @@ import CleaningServices from './CleaningServices';
 import CustomerReview from './CustomerReview';
 import ElectricianServices from './ElectricianServices';
 import HomeAppliencesServices from './HomeAppliencesServices';
+import Logo from './Logo';
 import MostUsed from './MostUsed';
 import PeaceOfMind from './PeaceOfMind';
 import PlumberServices from './PlumberServices';
@@ -35,6 +36,7 @@ const Home = () => {
             <ChooseUS></ChooseUS>
             <CustomerReview></CustomerReview>
             <ReferLink></ReferLink>
+            <Logo></Logo>
         </div>
     );
 };
