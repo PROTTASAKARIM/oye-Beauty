@@ -1,4 +1,7 @@
 # Getting Started with Create React App
+my live site (https://rainbow-otter-6c2a29.netlify.app/)
+* it is just a web design.
+* website created with tailwind css
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
