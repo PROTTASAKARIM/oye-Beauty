@@ -2,6 +2,8 @@
 my live site (https://rainbow-otter-6c2a29.netlify.app/)
 * it is just a web design.
 * website created with tailwind css
+* for icons hero icons are used
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
